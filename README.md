@@ -1,9 +1,9 @@
 # Simple-Web-Application-using-Spring-Boot
 
-##Description 
+## Description 
 A simple web application built using Spring Boot. This project demonstrates basic functionalities like serving a "Greetings from Pracheta!" message on the homepage. It is a foundation for exploring more complex Spring Boot features like REST APIs, databases, and authentication.
 
-##Features
+## Features
 - Built with Spring Boot 3.x
 - Command-line interface support
 - Web server with embedded Tomcat
